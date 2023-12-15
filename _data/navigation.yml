@@ -9,14 +9,14 @@ main:
   - title: "Volunteer Work"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+ #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Anshika_CV.pdf
     
-  - title: "Bio"
-    url: /markdown/
+ # - title: "Bio"
+  #  url: /markdown/
