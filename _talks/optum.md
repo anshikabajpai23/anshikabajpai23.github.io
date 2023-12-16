@@ -3,8 +3,8 @@ title: "Optum, UnitedHealth Group"
 collection: talks
 type: "Talk"
 permalink: /talks/optum
-venue: 
-date:
+# venue: 
+# date:
 location: "Bangalore, India"
 ---
 
