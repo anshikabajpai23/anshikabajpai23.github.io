@@ -1,7 +1,7 @@
 ---
-title: "National Service Scheme - Education and Cultural Team Head"
+title: "National Service Scheme"
 collection: teaching
-type: "Undergraduate course"
+type: "Education and Cultural Team Head"
 permalink: /teaching/NSS
 location: "Noida, India"
 ---
