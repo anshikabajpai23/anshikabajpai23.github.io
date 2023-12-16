@@ -1,7 +1,7 @@
 ---
 title: "Saksham: Child Welfare & Educational Trust"
 collection: teaching
-type: "Workshop"
+type: "Volunteer"
 permalink: /teaching/saksham
 location: "Noida, India"
 ---
