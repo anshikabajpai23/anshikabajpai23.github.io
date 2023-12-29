@@ -1,18 +1,16 @@
 ---
-title: "Optum, UnitedHealth Group"
+title: "PLANTIFY -  Mobile Application - Image Segmentation, CNN, Python"
+excerpt: "☀️ Harvest sunshine, grow happiness. Click & see how PLANTIFY makes rooftop farming fun!<br/>[![Alternate Text](/files/PlantifyImage.png)](
+https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/bf1ca304-0fa0-4468-826a-8c6904cd7233
+ 'Plantify-application')
+  "
 collection: talks
 type: "Talk"
-permalink: /talks/optum
+permalink: /projects/Plantify
 # venue: 
 # date:
 location: "Bangalore, India"
 ---
 
-  * Led the design and development of critical software components for health insurance systems (UHOne).
-  * Developed end-to-end architectural designs for various features of the product.
-  * Led a successful hackathon project focused on cardiovascular disease prediction, achieving **84.21% accuracy** with **Logistic Regression** and **82.89%** with **Random Forest** models.
-  * Refactored the existing legacy system (VUE coverage feed) with high code quality standards thereby, reducing code execution time from **500+ minutes to less than 3 minutes**.
-  * Enhanced the report generation system by optimizing the file sizes from **7426 Kb to 14 Kb**, hence improving the latency and minimizing the production cost.
-  * Built a system to send automated Compliance Notices through emails as part of “The Paperless Initiative”, which saved the company **$500,000 annually**.
-  * Created a real-time Grafana dashboard for the product to analyze metrics such as generated errors and letters, etc thereby, improving team efficiency by saving **$15,000 annually**.
-  * Took initiatives to improve code quality & coding standards by introducing design patterns, writing unit tests with at least 90% code coverage, creating code review guidelines, and mentoring juniors across teams.
+  * Generated plant recommendations by analyzing a user's location and solar capabilities.
+  * Utilized a U-Net model for image segmentation to identify the boundary between the sky and ground and then encoded the results in a run-length format with an accuracy of 70%.
