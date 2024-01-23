@@ -13,8 +13,8 @@ excerpt: "![IMG-20200128-WA0003](https://github.com/anshikabajpai23/anshikabajpa
 ![IMG_20191217_130927](https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/4c1e9ead-70b9-44fd-b832-1692646cfd04) 
 ![IMG-20190112-WA0066](https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/d05dbf63-8914-4d96-b4a9-bbac78c4fc98)
 "
-itemdescription: "* Organized and managed blood donation camps, marathons, and plantation drives.<br/>
-  * Led educational initiatives, designed curricula, and participated in community projects, including food distribution and cleanliness drives."
+itemdescription: "<ul><li>Organized and managed blood donation camps, marathons, and plantation drives.</li>
+  <li>Led educational initiatives, designed curricula, and participated in community projects, including food distribution and cleanliness drives.</li></ul>"
 ---
 
   * Organized and managed blood donation camps, marathons, and plantation drives.
