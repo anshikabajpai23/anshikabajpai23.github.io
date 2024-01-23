@@ -245,13 +245,13 @@ defaults:
       author_profile: true
       share: false
   # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+   #   type: projects
+   # values:
+  #    layout: project
+   #   author_profile: true
+   #   share: true
 
 # Sass/SCSS
 sass:
