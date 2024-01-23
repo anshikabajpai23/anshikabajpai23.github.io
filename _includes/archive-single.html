@@ -61,6 +61,9 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
-
+    
+    {% if post.images %}
+    <p>{{post.images}}</p>
+    {% endif %}
   </article>
 </div>
