@@ -6,7 +6,7 @@ permalink: /teaching/NSS
 location: "Noida, India"
 start_date: 'Aug 2018'
 end_date: 'July 2020'
-images: "![Image Alt text](_images/teaching1.jpeg "teaching underprivileged children"))
+images: "![Image Alt text](_images/teaching1.jpeg 'teaching underprivileged children'))
 "
 
 ---
