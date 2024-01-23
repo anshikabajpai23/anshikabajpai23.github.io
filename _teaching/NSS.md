@@ -10,3 +10,5 @@ end_date: 'July 2020'
 
   * Organized and managed blood donation camps, marathons, and plantation drives.
   * Led educational initiatives, designed curricula, and participated in community projects, including food distribution and cleanliness drives.
+
+![Image Alt text](/_images/teaching1.jpeg "teaching underprivileged children"))
