@@ -11,6 +11,6 @@ itemdescription: "<ul><li>Developed and implemented an innovative Ingredient Con
 
 ---
 
-Aug 2020 - May 2021
+
 Developed and implemented an innovative Ingredient Consumption Tracker Application, serving as a personalized healthcare assistant.
 Leveraged advanced algorithms to analyze the impact of daily consumed ingredients, with a primary focus on diabetes, heart health, allergies, and weight management.
