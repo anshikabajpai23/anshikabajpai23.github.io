@@ -11,8 +11,6 @@ itemdescription: "<ul><li>Generated plant recommendations by analyzing a user's 
   
 ---
 
-  * Generated plant recommendations by analyzing a user's location and solar capabilities.
-  * Utilized a U-Net model for image segmentation to identify the boundary between the sky and ground and then encoded the results in a run-length format with an accuracy of 70%.
 
 
 
