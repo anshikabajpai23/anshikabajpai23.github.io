@@ -1,6 +1,6 @@
 ---
 title: "PLANTIFY -  Mobile Application - Image Segmentation, CNN, Python"
-excerpt: "☀️ Harvest sunshine, grow happiness. Click & see how PLANTIFY makes rooftop farming fun!<br/>[![Alternate Text](/files/PlantifyImage.png)](
+excerpt: "☀️ Harvest sunshine, grow happiness. <i><b>Click</b></i> & see how PLANTIFY makes rooftop farming fun!<br/>[![Alternate Text](/files/PlantifyImage.png)](
 https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/bf1ca304-0fa0-4468-826a-8c6904cd7233
  'Plantify-application')
   "
