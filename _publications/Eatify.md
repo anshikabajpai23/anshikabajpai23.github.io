@@ -1,6 +1,6 @@
 ---
 title: "EATIFY -  Mobile Application - Python, Firebase-ML Kit"
-excerpt: "Click, track, thrive! Take the first step towards a healthier you with our easy-to-use Ingredient Consumption Tracker App.<br/>[![Alternate Text](/files/EatifyImage.png)](
+excerpt: "Click, track, thrive! Take the first step towards a healthier you with our easy-to-use Ingredient Consumption Tracker App🍝.<br/>[![Alternate Text](/files/EatifyImage.png)](
 https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/f0d8676c-e7ed-4f4e-9c29-7e9e185d5619
  'Eatify-application')
   "
