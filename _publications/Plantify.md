@@ -1,8 +1,8 @@
 ---
 title: "PLANTIFY -  Mobile Application - Image Segmentation, CNN, Python"
-excerpt: "☀️ Harvest sunshine, grow happiness. <i><b>Click</b></i> & see how PLANTIFY makes rooftop farming fun!<br/>[![Alternate Text](/files/PlantifyImage.png)](
+excerpt: "☀️ Harvest sunshine, grow happiness. <b>Click</b> & see how PLANTIFY makes rooftop farming fun!<br/>[![PLANTIFY](/files/PlantifyImage.png)](
 https://github.com/anshikabajpai23/anshikabajpai23.github.io/assets/40437600/bf1ca304-0fa0-4468-826a-8c6904cd7233
- 'Plantify-application')
+ 'Click to view the video for PLANTIFY')
   "
 collection: talks
 githublink: 'https://github.com/anshikabajpai23/Energy-Utilization-of-Rooftops-In-Urban-Areas'
