@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am a Software Engineer at Optum, UnitedHealth Group. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
+I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am a Senior Software Engineer at Optum, UnitedHealth Group. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
 
 
 KEY ATTRIBUTES
