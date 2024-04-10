@@ -4,13 +4,12 @@ collection: talks
 type: "Talk"
 permalink: /talks/optum
 # venue: 
-# date:
+# date: [comment]: Led a successful hackathon project focused on cardiovascular disease prediction, achieving **84.21% accuracy** with [comment]: **Logistic Regression** and **82.89%** with **Random Forest** models.
 location: "Bangalore, India"
 ---
 
   * Led the design and development of critical software components for health insurance systems (UHOne).
   * Developed end-to-end architectural designs for various features of the product.
- [comment]: * Led a successful hackathon project focused on cardiovascular disease prediction, achieving **84.21% accuracy** with [comment]: **Logistic Regression** and **82.89%** with **Random Forest** models.
   * Refactored the existing legacy system (coverage feed) with high code quality standards thereby, reducing code execution time from **500+ minutes to less than 3 minutes**.
   * Enhanced the report generation system by optimizing the file sizes from **7426 Kb to 14 Kb**, hence improving the latency and minimizing the production cost.
   * Built a system to send automated Compliance Notices through emails as part of “The Paperless Initiative”, which saved the company **$500,000 annually**.
