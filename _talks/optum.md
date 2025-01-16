@@ -2,7 +2,7 @@
 title: "Optum, UnitedHealth Group"
 collection: talks
 type: "Talk"
-permalink: /talks/optum
+permalink: /work-exp/optum
 # venue: 
 # date: [comment]: Led a successful hackathon project focused on cardiovascular disease prediction, achieving **84.21% accuracy** with [comment]: **Logistic Regression** and **82.89%** with **Random Forest** models.
 location: "Bangalore, India"
