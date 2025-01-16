@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am a Senior Software Engineer at Optum, UnitedHealth Group. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
+I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am currently pursuing my masters in Data Science at Indiana University Bloomington, United States. I have worked as a Senior Software Engineer at Optum, UnitedHealth Group and Machine learning scientist Intern at Taiyo.ai. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
 
 
 KEY ATTRIBUTES
@@ -30,5 +30,7 @@ RESEARCH INTERESTS
 --------
 Machine Learning, Data Science, Data Analytics, Artificial Intelligence, Recurrent Neural Network, Generative AI, Natural Language Processing, Convulational Neural Networks.
 
-
+COURSEWORK
+--------
+Applied Machine Learning, Statistics, Applied Algorithms, Advance Database concepts, Advance Database Technologies
 ***My mind loves data, my hands build software, and my heart seeks impact.***
