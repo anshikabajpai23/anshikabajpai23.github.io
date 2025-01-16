@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anshika Bajpai"
   avatar           : "AB.jpeg"
-  bio              : "Senior Software Engineer at Optum, UnitedHealth Group"
+  bio              : 
   location         : "Bangalore, India"
-  employer         :
+  employer         : "Senior Software Engineer at Optum, UnitedHealth Group"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "anshikabajpai23@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
