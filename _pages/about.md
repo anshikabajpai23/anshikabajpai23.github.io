@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine learning Engineer | Data Scientist | Software Engineer | Creating Scalable, Intelligent Solutions."
+title: "Machine learning Engineer & Data Scientist & Software Engineer - Creating Scalable, Intelligent Solutions."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
