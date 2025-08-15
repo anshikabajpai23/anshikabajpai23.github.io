@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World! Welcome to my digital universe!🚀"
+title: "Machine learning Engineer | Data Scientist | Software Engineer | Creating Scalable, Intelligent Solutions."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. I am currently pursuing my masters in Data Science at Indiana University Bloomington, United States. I have worked as a Senior Software Engineer at Optum, UnitedHealth Group and Machine learning scientist Intern at Taiyo.ai. I completed my Bachelor of Technology with honors in the field of Computer Science and Engineering, from Jaypee Institute of Information Technology, India.
+I'm Anshika Bajpai, where data science meets software engineering, and the possibilities are endless. With a foundation in Computer Science and Engineering from Jaypee Institute of Information Technology, I’ve navigated the worlds of software development and machine learning  from shaping large-scale systems as a Senior Software Engineer at Optum, to advancing AI research as a Machine Learning Scientist Intern at Taiyo LLC. Now pursuing my Master’s in Data Science at Indiana University Bloomington, I bring a forward-thinking approach to solving complex problems, recently contributing as a Machine Learning Engineer Intern at Palo Alto Networks and publishing research in leading venues. My mission: build systems that don’t just work  they inspire, adapt, and create lasting impact.
 
 
 KEY ATTRIBUTES
